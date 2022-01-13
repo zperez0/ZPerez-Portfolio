@@ -17,3 +17,10 @@ h1, h2, h3{
   color: white;
   padding-bottom: 10%;
 }
+
+.projects, .background {
+  font-family: sans-serif;
+  text-align: left;
+  color:  white;
+  padding-top: 10%;
+}
