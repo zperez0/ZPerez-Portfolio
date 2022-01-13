@@ -40,3 +40,16 @@ h4 {
   padding-top: 5%;
 }
 
+.card {
+  background-color: rgba(46, 97, 145, 0.274);
+  margin: 20px 10px;
+  width: 100%;
+}
+
+.card-body{
+  box-shadow: 0 0 20px 7px rgb(255, 255, 255)s;
+}
+
+.row {
+  display: flex;
+}
