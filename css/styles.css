@@ -1,14 +1,23 @@
 body {
   background-color: #000000;
 background-image: url("https://www.transparenttextures.com/patterns/blizzard.png");
-margin: 25%;
+margin: 15%;
 }
 
-h1, h2, h3{
+.header {
   font-family: sans-serif;
-  text-align: center;
   font-weight: bold;
   color: white;
+  padding: 40px;
+  text-align: center;
+  width: 60em;
+  border: solid rgba(0, 0, 0, 0.021);
+  border-width: 10px;
+  background-color: rgba(252, 162, 17, 0.466);
+  margin: 50px auto;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  float: center;
 }
 
 .aboutme {
@@ -28,12 +37,12 @@ h1, h2, h3{
 img {
   display: block;
   float: left;
-  border: 10px dashed rgb(172, 135, 13);
+  border: 10px dashed rgba(252, 162, 17, 0.623);
   margin-left: auto;
   margin-right: auto;
   width: 250px;
-  padding-bottom: 10%;
-  padding-top: 10%;
+  padding-bottom: 60px;
+  padding-top: 60px;
 }
 
 h4 {
@@ -61,5 +70,6 @@ h4 {
 }
 
 .progress {
-  margin-bottom: 40px;
+  margin: 70px;
 }
+
