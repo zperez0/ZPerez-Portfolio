@@ -10,3 +10,10 @@ h1, h2, h3{
   font-weight: bold;
   color: white;
 }
+
+.aboutme {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  padding-bottom: 10%;
+}
