@@ -53,3 +53,9 @@ h4 {
 .row {
   display: flex;
 }
+
+.column {
+  flex: 25%;
+  padding: 10px;
+  height: 50px;
+}
