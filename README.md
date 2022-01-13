@@ -3,7 +3,7 @@
 #### By _**Z Perez**_
 
 #### _Links:_
-_https://github.com/zperez0/ZPerez-portfolio_
+_https://zperez0.github.io/zperez-portfolio_
 
 ## Technologies Used
 
