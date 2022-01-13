@@ -13,7 +13,7 @@ _https://github.com/zperez0/ZPerez-portfolio_
 
 ## Description
 
-_ I created a portfolio website to deminstrate my HTML, CSS, and Bootstrap skills. You will find a title, photo, an about me, background and project section._
+_I created a portfolio website to deminstrate my HTML, CSS, and Bootstrap skills. You will find a title, photo, an about me, background and project section._
 
 ## Setup/Installation Requirements
 
